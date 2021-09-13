@@ -1,2 +1,2 @@
 # rep-1
-pub
+furst repo
